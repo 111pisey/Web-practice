@@ -10,7 +10,6 @@
     
 </head>
 <body>
-
 <div>
   <form method="post" action="result.php" >
     <div class="container">
