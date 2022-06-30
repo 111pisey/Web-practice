@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,6 +42,3 @@
   </div>
 </body>
 </html>
-=======
-//Iam Pisey
->>>>>>> 540383bb4039eda97ecc060d6986b09755525fc5
