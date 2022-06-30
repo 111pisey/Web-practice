@@ -10,13 +10,14 @@
     
 </head>
 <body>
+
 <div>
   <form method="post" action="result.php" >
     <div class="container">
       
       <div class="row">
         <div class="col-sm-3">
-          <h1>Registration</h1>
+          <h1>Add Product</h1>
           <p>Fill up the form with correct values.</p>
           <hr class="mb-3">
           <label for="id"><b>ID Product</b></label><br>
